@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MY_UTS_APP</string>
+    <string name="home">FRAG1</string>
+    <string name="about">FRAG2</string>
+    <string name="help">FRAG3</string>
+    <string name="exit">FRAG4</string>
+    <string name="fragment1">Ini adalah Fragment 1</string>
+    <string name="fragment2">Ini adalah Fragment 2</string>
+    <string name="fragment3">Ini adalah Fragment 3</string>
+    <string name="fragment4">Ini adalah Fragment 4</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="launch_maps">Launch Maps</string>
+</resources>
