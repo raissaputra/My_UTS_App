@@ -5,4 +5,4 @@
 - youtube : https://youtu.be/CLLSe_tRNHQ
 
 # Screenshot
-
+![mergefragment](https://github.com/raissaputra/My_UTS_App/blob/main/app/src/main/res/drawable/mergefragment.png)
